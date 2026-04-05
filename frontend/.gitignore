@@ -8,6 +8,13 @@
 !.yarn/releases
 !.yarn/versions
 
+
+
+# Python cache files
+__pycache__/
+*.pyc
+
+
 # testing
 /coverage
 
